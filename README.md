@@ -38,8 +38,8 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 Noms des étudiants :
 * Solari Mattéo
-* Tanguy Le Guillou
 * Solari Mattéo
+* Tanguy Le Guillou
 
 Date du jour : 17/12/2021
 
